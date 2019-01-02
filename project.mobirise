@@ -190,6 +190,14 @@
           "_params": {}
         }
       ]
+    },
+    "page1.html": {
+      "settings": {
+        "meta_descr": "Website Builder Description",
+        "title": "Page 1",
+        "order": 1
+      },
+      "components": []
     }
   }
 }
